@@ -1,0 +1,1002 @@
+order_id,customer_id,sales_person,priority,ship_mode,date,value_£
+8999,C406,Kelly,High,Plane,12/06/2020,"£1,553.44"
+47872,C100,Kelly,Critical,Plane,12/06/2020,£315.40
+29988,C006,Kelly,High,Lorry,12/06/2020,"£5,075.89"
+37348,C492,Kelly,High,Plane,13/06/2020,£520.67
+28001,C231,Kelly,Critical,Plane,14/06/2020,"£8,431.37"
+53350,C730,Kelly,Not Specified,Plane,14/06/2020,"£6,976.84"
+40006,C006,Kelly,Not Specified,Plane,15/06/2020,£143.95
+8545,C066,Kelly,Low,Plane,17/06/2020,£103.25
+8545,C066,Kelly,Low,Lorry,17/06/2020,"£2,829.17"
+57155,C722,Kelly,Critical,Plane,17/06/2020,£141.59
+224,C073,Kelly,Not Specified,Plane,17/06/2020,£252.60
+14276,C459,Kelly,Medium,Plane,18/06/2020,£103.75
+1218,C180,Kelly,Not Specified,Plane,19/06/2020,£38.93
+9954,C741,Kelly,Not Specified,Lorry,19/06/2020,"£9,407.21"
+9954,C741,Kelly,Not Specified,Plane,19/06/2020,£107.46
+42403,C573,Kelly,Not Specified,Plane,20/06/2020,£117.59
+39812,C315,Kelly,Not Specified,Plane,20/06/2020,£305.52
+26854,C147,Kelly,Not Specified,Plane,21/06/2020,£24.87
+6144,C622,Kelly,Critical,Lorry,21/06/2020,"£1,351.05"
+14182,C097,Kelly,Low,Plane,22/06/2020,"£2,752.88"
+29633,C686,Kelly,Critical,Plane,22/06/2020,£86.90
+39488,C526,Kelly,Low,Van,22/06/2020,£77.41
+41606,C098,Kelly,High,Lorry,23/06/2020,"£4,206.51"
+41606,C098,Kelly,High,Plane,23/06/2020,£75.89
+41799,C396,Kelly,High,Plane,23/06/2020,"£1,330.36"
+19073,C164,Kelly,Not Specified,Van,24/06/2020,£107.86
+39136,C702,Kelly,High,Plane,24/06/2020,"£3,168.84"
+32582,C767,Kelly,Not Specified,Van,25/06/2020,"£2,645.09"
+57507,C479,Kelly,Critical,Plane,26/06/2020,£145.60
+40224,C667,Kelly,Low,Van,30/06/2020,£850.40
+42279,C325,Kelly,Not Specified,Van,30/06/2020,"£1,335.86"
+55746,C305,Kelly,Not Specified,Plane,30/06/2020,£304.49
+36647,C162,Kelly,High,Plane,30/06/2020,£164.03
+34275,C313,Kelly,Low,Plane,01/07/2020,£121.53
+41216,C434,Kelly,Not Specified,Plane,01/07/2020,£228.69
+41216,C434,Kelly,Not Specified,Lorry,01/07/2020,"£8,068.05"
+21602,C346,Kelly,Critical,Lorry,01/07/2020,"£2,068.37"
+34276,C315,Kelly,Low,Lorry,01/07/2020,"£5,865.06"
+8997,C769,Kelly,Low,Plane,01/07/2020,£115.63
+11527,C081,Kelly,Medium,Plane,02/07/2020,"£4,286.74"
+27840,C489,Kelly,High,Lorry,03/07/2020,"£1,099.13"
+56002,C206,Kelly,Low,Plane,04/07/2020,£713.19
+56002,C206,Kelly,Low,Plane,04/07/2020,"£3,788.56"
+3649,C100,Kelly,Low,Plane,05/07/2020,£70.39
+24132,C416,Kelly,Low,Plane,06/07/2020,£310.27
+24132,C416,Kelly,Low,Plane,06/07/2020,£442.46
+24132,C416,Kelly,Low,Plane,06/07/2020,£40.55
+58727,C791,Kelly,Medium,Plane,06/07/2020,£513.71
+53894,C138,Kelly,Critical,Plane,07/07/2020,"£2,535.06"
+10305,C406,Kelly,Low,Plane,07/07/2020,£59.13
+20513,C001,Kelly,High,Van,07/07/2020,£36.55
+49830,C340,Kelly,Critical,Van,09/07/2020,£480.81
+49830,C340,Kelly,Critical,Plane,09/07/2020,"£16,142.33"
+26629,C555,Kelly,High,Plane,10/07/2020,£83.62
+47621,C211,Kelly,Critical,Van,11/07/2020,£209.02
+33635,C202,Kelly,High,Plane,12/07/2020,£75.66
+19232,C186,Kelly,Low,Lorry,12/07/2020,"£6,649.77"
+41696,C120,Kelly,Not Specified,Van,13/07/2020,£195.55
+23778,C130,Kelly,Low,Plane,13/07/2020,£54.75
+48034,C648,Kelly,Not Specified,Plane,14/07/2020,£931.02
+13380,C641,Kelly,Critical,Plane,15/07/2020,£62.90
+13313,C706,Kelly,Not Specified,Plane,16/07/2020,£572.42
+32070,C591,Kelly,Medium,Plane,17/07/2020,£81.84
+22919,C341,Kelly,Critical,Plane,17/07/2020,£95.89
+11843,C166,Kelly,Medium,Plane,17/07/2020,£990.00
+18147,C116,Kelly,Not Specified,Plane,17/07/2020,£271.66
+55847,C567,Kelly,Not Specified,Plane,20/07/2020,£125.29
+6823,C759,Kelly,Not Specified,Plane,21/07/2020,"£1,235.03"
+6823,C759,Kelly,Not Specified,Plane,21/07/2020,£495.38
+43813,C130,Kelly,Not Specified,Plane,21/07/2020,£342.46
+48961,C393,Kelly,Not Specified,Van,21/07/2020,£337.05
+50917,C667,Kelly,Low,Plane,21/07/2020,"£1,422.31"
+41316,C388,Kelly,Not Specified,Plane,21/07/2020,£113.10
+37825,C508,Kelly,Low,Plane,22/07/2020,£269.01
+34882,C134,Kelly,Critical,Plane,24/07/2020,£78.41
+9092,C371,Kelly,Not Specified,Van,24/07/2020,"£3,346.53"
+24933,C696,Kelly,Low,Lorry,26/07/2020,"£3,199.05"
+33699,C776,Kelly,Low,Lorry,26/07/2020,"£1,518.93"
+19078,C105,Kelly,Critical,Plane,27/07/2020,£243.83
+21538,C500,Kelly,Medium,Plane,27/07/2020,£83.85
+3459,C297,Kelly,Not Specified,Van,27/07/2020,"£2,397.38"
+28130,C320,Kelly,Low,Van,30/07/2020,£360.41
+26279,C253,Kelly,Not Specified,Plane,30/07/2020,£241.85
+18753,C271,Kelly,Medium,Plane,31/07/2020,"£3,856.18"
+29187,C638,Kelly,Low,Lorry,31/07/2020,"£27,448.24"
+18179,C475,Kelly,Not Specified,Plane,01/08/2020,"£2,957.53"
+18179,C475,Kelly,Not Specified,Plane,01/08/2020,£515.50
+14311,C112,Kelly,Critical,Plane,01/08/2020,£185.37
+24294,C749,Kelly,Not Specified,Lorry,02/08/2020,"£4,678.58"
+54567,C576,Kelly,Medium,Plane,02/08/2020,£177.16
+39589,C584,Kelly,Critical,Plane,02/08/2020,£92.31
+45539,C312,Kelly,Not Specified,Plane,02/08/2020,£83.96
+56516,C710,Kelly,Medium,Plane,03/08/2020,"£2,842.33"
+57504,C681,Kelly,Not Specified,Plane,04/08/2020,£332.80
+50981,C691,Kelly,Critical,Plane,04/08/2020,"£6,486.06"
+11714,C737,Kelly,Critical,Lorry,04/08/2020,"£3,467.12"
+11714,C737,Kelly,Critical,Plane,04/08/2020,£133.08
+37319,C785,Kelly,Critical,Plane,04/08/2020,£362.64
+23333,C526,Kelly,Medium,Plane,05/08/2020,£183.71
+25507,C248,Kelly,Not Specified,Plane,05/08/2020,£486.17
+4870,C481,Kelly,Medium,Lorry,05/08/2020,"£16,231.67"
+42309,C523,Kelly,Low,Plane,06/08/2020,£44.01
+56960,C377,Kelly,High,Van,06/08/2020,"£3,135.84"
+44995,C490,Kelly,High,Plane,06/08/2020,"£1,320.20"
+57381,C601,Kelly,High,Plane,07/08/2020,£40.95
+45732,C300,Kelly,Critical,Van,10/08/2020,£121.89
+45732,C300,Kelly,Critical,Plane,10/08/2020,"£2,919.36"
+45731,C506,Kelly,Critical,Lorry,10/08/2020,"£12,510.64"
+5894,C041,Kelly,High,Plane,12/08/2020,£239.03
+14115,C380,Kelly,Not Specified,Plane,14/08/2020,£144.69
+15971,C256,Kelly,High,Plane,14/08/2020,"£2,481.46"
+41636,C504,Kelly,Critical,Plane,14/08/2020,£403.28
+41636,C504,Kelly,Critical,Plane,14/08/2020,"£3,037.78"
+56260,C411,Kelly,Not Specified,Plane,15/08/2020,£213.71
+47910,C100,Kelly,High,Plane,15/08/2020,"£4,925.77"
+38598,C148,Kelly,Low,Lorry,15/08/2020,"£14,377.59"
+10437,C235,Kelly,Critical,Plane,18/08/2020,£791.51
+21861,C765,Kelly,Critical,Plane,18/08/2020,£225.51
+2790,C492,Kelly,High,Van,18/08/2020,£320.25
+45410,C527,Kelly,Low,Plane,19/08/2020,£925.11
+1762,C470,Kelly,Not Specified,Van,19/08/2020,"£1,392.81"
+33888,C329,Kelly,Not Specified,Plane,20/08/2020,£46.16
+43301,C512,Kelly,Critical,Plane,21/08/2020,"£2,082.10"
+44196,C187,Kelly,Not Specified,Plane,22/08/2020,£720.61
+41827,C590,Kelly,Critical,Plane,22/08/2020,"£3,117.52"
+24162,C688,Kelly,Not Specified,Lorry,22/08/2020,"£1,739.29"
+52897,C453,Kelly,Medium,Plane,22/08/2020,"£1,916.00"
+6112,C057,Kelly,Medium,Plane,23/08/2020,"£1,922.95"
+49799,C436,Kelly,High,Lorry,24/08/2020,"£1,429.29"
+29350,C263,Kelly,High,Plane,25/08/2020,"£2,339.66"
+28486,C129,Kelly,High,Plane,26/08/2020,£765.22
+21985,C485,Kelly,Critical,Lorry,26/08/2020,£210.80
+32611,C568,Kelly,Medium,Lorry,27/08/2020,"£3,438.62"
+47813,C231,Kelly,High,Plane,27/08/2020,£334.00
+33732,C328,Kelly,Not Specified,Plane,28/08/2020,£302.53
+33569,C511,Kelly,Low,Plane,28/08/2020,£116.30
+6727,C723,Kelly,Low,Plane,29/08/2020,£32.60
+1031,C677,Kelly,Medium,Plane,31/08/2020,£216.58
+20128,C163,Kelly,Not Specified,Plane,31/08/2020,£272.00
+47974,C287,Kelly,Medium,Plane,31/08/2020,£16.51
+27555,C623,Kelly,Critical,Plane,01/09/2020,£194.11
+45988,C211,Kelly,Critical,Van,01/09/2020,"£3,560.05"
+14055,C436,Kelly,High,Plane,01/09/2020,£429.48
+54464,C401,Kelly,High,Plane,01/09/2020,£206.59
+47173,C020,Kelly,Not Specified,Plane,01/09/2020,£317.76
+54151,C030,Kelly,Critical,Plane,02/09/2020,£192.84
+52357,C096,Kelly,Not Specified,Plane,03/09/2020,£511.12
+26567,C733,Kelly,Critical,Plane,04/09/2020,£39.74
+26567,C733,Kelly,Critical,Van,04/09/2020,£76.99
+42342,C090,Kelly,Not Specified,Plane,04/09/2020,£303.93
+11680,C020,Kelly,Medium,Plane,04/09/2020,"£8,271.53"
+25824,C155,Kelly,Medium,Lorry,04/09/2020,"£14,669.07"
+49990,C281,Kelly,Not Specified,Lorry,05/09/2020,"£4,863.54"
+36867,C709,Kelly,High,Van,05/09/2020,"£5,452.19"
+34311,C547,Kelly,High,Plane,05/09/2020,£216.66
+51968,C697,Kelly,Medium,Plane,05/09/2020,"£3,586.64"
+48167,C194,Kelly,Critical,Lorry,06/09/2020,"£4,971.26"
+48167,C194,Kelly,Critical,Plane,06/09/2020,£274.10
+48167,C194,Kelly,Critical,Lorry,06/09/2020,"£8,585.99"
+9668,C158,Kelly,Low,Plane,06/09/2020,£39.29
+10052,C191,Kelly,Not Specified,Plane,07/09/2020,£512.62
+10052,C191,Kelly,Not Specified,Plane,07/09/2020,£151.47
+37926,C635,Kelly,Critical,Plane,08/09/2020,£350.89
+55648,C727,Kelly,Critical,Plane,09/09/2020,£13.25
+43590,C325,Kelly,Critical,Van,10/09/2020,"£2,893.09"
+3746,C012,Kelly,Not Specified,Plane,10/09/2020,"£1,623.86"
+56901,C598,Kelly,Critical,Plane,11/09/2020,£93.60
+10629,C332,Kelly,Critical,Van,11/09/2020,£82.56
+44487,C332,Kelly,Critical,Plane,11/09/2020,£22.86
+44487,C332,Kelly,Critical,Plane,11/09/2020,£543.37
+38145,C030,Kelly,Not Specified,Plane,12/09/2020,£57.70
+46721,C572,Kelly,Medium,Plane,13/09/2020,"£1,830.88"
+38080,C380,Kelly,Not Specified,Plane,14/09/2020,£119.12
+7269,C555,Kelly,Medium,Plane,14/09/2020,"£1,913.71"
+44352,C369,Kelly,Not Specified,Plane,15/09/2020,£77.32
+53412,C264,Kelly,Critical,Plane,15/09/2020,"£2,390.22"
+18855,C249,Kelly,High,Plane,15/09/2020,£219.51
+17764,C236,Kelly,Low,Plane,16/09/2020,£592.01
+27330,C497,Kelly,Low,Lorry,16/09/2020,"£12,600.99"
+41412,C696,Kelly,Not Specified,Plane,17/09/2020,£246.19
+38915,C079,Kelly,Medium,Plane,17/09/2020,£85.78
+31619,C607,Kelly,Low,Plane,17/09/2020,£108.70
+18371,C224,Kelly,Medium,Plane,18/09/2020,"£1,319.40"
+54694,C397,Kelly,Critical,Plane,19/09/2020,£105.23
+2816,C655,Kelly,High,Plane,19/09/2020,£769.30
+54436,C757,Kelly,High,Plane,19/09/2020,£300.44
+4645,C174,Kelly,Critical,Plane,19/09/2020,£96.82
+49059,C153,Kelly,Medium,Plane,20/09/2020,£126.24
+49059,C153,Kelly,Medium,Plane,20/09/2020,£239.66
+960,C379,Kelly,Medium,Plane,20/09/2020,£587.37
+548,C725,Kelly,Critical,Plane,20/09/2020,£184.16
+6020,C057,Kelly,Medium,Plane,21/09/2020,£60.28
+49088,C450,Kelly,Critical,Van,23/09/2020,"£3,982.59"
+49088,C450,Kelly,Critical,Plane,23/09/2020,"£1,194.45"
+55265,C684,Kelly,Low,Plane,23/09/2020,£769.49
+49735,C551,Kelly,Not Specified,Plane,23/09/2020,"£1,873.00"
+55138,C382,Kelly,High,Plane,24/09/2020,"£1,076.02"
+53190,C535,Kelly,Medium,Plane,24/09/2020,£534.52
+28420,C089,Kelly,Low,Van,24/09/2020,£28.65
+42022,C276,Kelly,Medium,Plane,24/09/2020,£315.36
+28135,C370,Kelly,Critical,Plane,25/09/2020,"£1,596.14"
+16134,C506,Kelly,Critical,Plane,25/09/2020,£12.36
+12903,C724,Kelly,Critical,Plane,25/09/2020,£66.94
+3522,C347,Kelly,Low,Plane,25/09/2020,£766.68
+20069,C344,Kelly,Critical,Plane,26/09/2020,£228.17
+25953,C472,Kelly,Critical,Plane,27/09/2020,£239.36
+55461,C522,Kelly,Medium,Plane,28/09/2020,£72.49
+9219,C181,Kelly,Low,Plane,28/09/2020,"£1,174.58"
+9219,C181,Kelly,Low,Plane,28/09/2020,£260.37
+4354,C271,Kelly,Not Specified,Plane,29/09/2020,£43.39
+19716,C558,Kelly,Low,Plane,29/09/2020,£683.80
+58151,C537,Kelly,High,Plane,29/09/2020,£200.48
+58151,C537,Kelly,High,Van,29/09/2020,"£5,320.11"
+30278,C340,Kelly,Low,Plane,30/09/2020,"£3,200.52"
+4451,C738,Kelly,Critical,Plane,30/09/2020,£964.67
+19140,C042,Kelly,Medium,Plane,30/09/2020,£285.86
+19140,C042,Kelly,Medium,Plane,30/09/2020,£149.70
+53797,C242,Kelly,Critical,Lorry,01/10/2020,£575.59
+18788,C405,Kelly,Not Specified,Plane,02/10/2020,£523.54
+15654,C247,Kelly,Not Specified,Lorry,02/10/2020,"£9,996.55"
+50051,C355,Kelly,Medium,Plane,04/10/2020,£150.95
+3841,C395,Kelly,Not Specified,Plane,04/10/2020,"£1,135.45"
+3841,C395,Kelly,Not Specified,Van,04/10/2020,"£8,414.69"
+49313,C310,Kelly,Medium,Plane,04/10/2020,"£1,230.86"
+41764,C429,Kelly,Not Specified,Lorry,05/10/2020,"£4,976.33"
+47520,C475,Kelly,Not Specified,Plane,07/10/2020,£901.50
+8162,C505,Kelly,Medium,Plane,07/10/2020,£666.39
+8162,C505,Kelly,Medium,Plane,07/10/2020,"£5,183.71"
+46533,C394,Kelly,High,Van,07/10/2020,£712.69
+2791,C275,Kelly,High,Plane,09/10/2020,£182.83
+18308,C041,Kelly,Not Specified,Plane,09/10/2020,£108.30
+23008,C270,Kelly,Critical,Van,09/10/2020,"£1,088.82"
+14785,C574,Kelly,High,Plane,09/10/2020,£689.68
+59591,C366,Kelly,Not Specified,Lorry,09/10/2020,"£3,158.34"
+59591,C366,Kelly,Not Specified,Plane,09/10/2020,£174.77
+13920,C025,Kelly,Critical,Van,09/10/2020,£853.65
+16610,C747,Kelly,High,Plane,10/10/2020,£621.40
+28002,C358,Kelly,Critical,Plane,10/10/2020,£41.00
+54819,C617,Kelly,Low,Plane,10/10/2020,£46.22
+54819,C617,Kelly,Low,Plane,10/10/2020,£61.99
+9926,C543,Kelly,High,Plane,11/10/2020,£144.25
+26146,C389,Kelly,Low,Plane,11/10/2020,£554.20
+40708,C757,Kelly,Not Specified,Plane,12/10/2020,£97.19
+17024,C735,Kelly,Medium,Plane,13/10/2020,"£1,305.73"
+43360,C518,Kelly,Low,Plane,13/10/2020,£99.84
+47108,C415,Kelly,Not Specified,Plane,15/10/2020,£329.55
+47108,C415,Kelly,Not Specified,Van,15/10/2020,£233.77
+47108,C415,Kelly,Not Specified,Van,15/10/2020,"£1,457.20"
+56995,C682,Kelly,Medium,Van,15/10/2020,£142.58
+8165,C124,Kelly,Low,Plane,15/10/2020,£172.56
+31493,C297,Kelly,High,Van,17/10/2020,£97.60
+26342,C447,Kelly,Low,Plane,18/10/2020,"£1,930.25"
+41255,C155,Kelly,Low,Plane,18/10/2020,"£1,320.96"
+52615,C474,Kelly,Low,Plane,19/10/2020,£17.02
+53222,C582,Kelly,Low,Plane,19/10/2020,£12.05
+16196,C486,Kelly,High,Plane,20/10/2020,"£13,699.43"
+36835,C792,Kelly,Critical,Plane,20/10/2020,"£11,953.52"
+50626,C217,Kelly,Medium,Lorry,20/10/2020,"£3,077.64"
+34631,C105,Kelly,Not Specified,Plane,23/10/2020,£15.79
+50656,C589,Kelly,Critical,Plane,25/10/2020,£183.54
+50656,C589,Kelly,Critical,Lorry,25/10/2020,"£15,375.08"
+38599,C165,Kelly,High,Plane,26/10/2020,"£2,491.64"
+15904,C778,Kelly,Not Specified,Plane,27/10/2020,£117.69
+15904,C778,Kelly,Not Specified,Van,27/10/2020,"£1,826.85"
+17251,C171,Kelly,Not Specified,Plane,27/10/2020,"£3,275.74"
+7623,C700,Kelly,Critical,Plane,28/10/2020,"£5,249.35"
+31910,C182,Kelly,Medium,Plane,29/10/2020,£209.46
+3395,C138,Kelly,Not Specified,Plane,29/10/2020,£106.81
+20229,C296,Kelly,Low,Plane,30/10/2020,£110.83
+24003,C191,Kelly,Critical,Plane,31/10/2020,"£1,224.02"
+38852,C263,Kelly,Not Specified,Plane,01/11/2020,£145.02
+18178,C557,Kelly,Low,Plane,02/11/2020,£176.70
+21314,C591,Kelly,Low,Lorry,02/11/2020,"£3,882.03"
+50081,C318,Kelly,Not Specified,Lorry,03/11/2020,£496.86
+28389,C497,Kelly,High,Lorry,03/11/2020,"£4,521.70"
+36896,C793,Kelly,Critical,Plane,03/11/2020,£31.32
+36896,C793,Kelly,Critical,Van,03/11/2020,£998.96
+3332,C080,Kelly,Critical,Plane,04/11/2020,£19.36
+40261,C279,Kelly,Critical,Plane,04/11/2020,£72.62
+32291,C244,Kelly,Medium,Plane,05/11/2020,£167.18
+32291,C244,Kelly,Medium,Plane,05/11/2020,£59.35
+26374,C060,Kelly,Not Specified,Plane,05/11/2020,£99.70
+18533,C452,Kelly,Not Specified,Plane,06/11/2020,£409.24
+18533,C452,Kelly,Not Specified,Van,06/11/2020,£37.95
+26337,C334,Kelly,Critical,Plane,07/11/2020,£152.77
+31873,C694,Kelly,Low,Plane,08/11/2020,"£2,710.83"
+46151,C768,Kelly,Critical,Plane,08/11/2020,£193.84
+53508,C405,Kelly,High,Plane,10/11/2020,"£1,021.16"
+41415,C220,Kelly,Low,Plane,10/11/2020,£69.52
+46848,C388,Kelly,Medium,Plane,10/11/2020,"£3,572.90"
+56706,C009,Kelly,High,Plane,10/11/2020,£699.93
+21922,C356,Kelly,High,Lorry,11/11/2020,"£8,431.49"
+21922,C356,Kelly,High,Plane,11/11/2020,£98.87
+28583,C377,Kelly,Critical,Plane,12/11/2020,"£5,431.52"
+27463,C766,Kelly,Medium,Plane,13/11/2020,£49.30
+20263,C120,Kelly,Medium,Plane,14/11/2020,£637.26
+49504,C451,Kelly,Not Specified,Plane,16/11/2020,£298.49
+22407,C727,Kelly,Not Specified,Plane,17/11/2020,£642.44
+5920,C559,Kelly,High,Plane,19/11/2020,£576.82
+40965,C497,Kelly,Medium,Plane,20/11/2020,£826.55
+57409,C388,Kelly,Not Specified,Plane,20/11/2020,"£6,793.55"
+40965,C497,Kelly,Medium,Lorry,20/11/2020,"£6,958.66"
+40965,C497,Kelly,Medium,Plane,20/11/2020,"£2,052.59"
+25926,C539,Kelly,High,Lorry,20/11/2020,"£3,937.50"
+3042,C162,Kelly,Medium,Plane,20/11/2020,£99.68
+33189,C650,Kelly,Low,Plane,20/11/2020,£80.79
+55045,C482,Kelly,High,Plane,22/11/2020,£591.14
+22885,C566,Kelly,Medium,Plane,23/11/2020,£48.94
+34689,C100,Kelly,Low,Plane,23/11/2020,£566.15
+46052,C091,Kelly,Medium,Plane,23/11/2020,"£2,247.49"
+3492,C660,Kelly,Low,Plane,23/11/2020,£88.07
+19521,C286,Kelly,Not Specified,Plane,23/11/2020,£312.93
+40835,C363,Kelly,High,Plane,24/11/2020,£366.84
+998,C027,Kelly,Not Specified,Plane,25/11/2020,£234.21
+17668,C271,Kelly,Medium,Plane,25/11/2020,"£6,862.34"
+48710,C186,Kelly,Medium,Plane,25/11/2020,£27.64
+15074,C752,Kelly,Not Specified,Plane,28/11/2020,£909.04
+12258,C440,Kelly,Low,Plane,30/11/2020,£6.11
+36416,C691,Kelly,Low,Plane,30/11/2020,£262.31
+47872,C100,Peter,Critical,Plane,12/06/2020,"£1,621.46"
+56582,C324,Peter,Low,Plane,12/06/2020,"£2,526.96"
+56582,C324,Peter,Low,Lorry,12/06/2020,"£1,388.23"
+58339,C635,Peter,High,Plane,13/06/2020,"£1,489.69"
+14528,C424,Peter,Critical,Plane,15/06/2020,£76.19
+28161,C165,Peter,Not Specified,Lorry,15/06/2020,"£4,948.82"
+28161,C165,Peter,Not Specified,Lorry,15/06/2020,£695.60
+28161,C165,Peter,Not Specified,Plane,15/06/2020,"£1,081.61"
+40006,C006,Peter,Not Specified,Plane,15/06/2020,£135.48
+24199,C624,Peter,Critical,Plane,16/06/2020,£647.68
+48931,C146,Peter,Low,Plane,17/06/2020,£691.35
+32038,C723,Peter,Low,Van,17/06/2020,£304.20
+5984,C263,Peter,Low,Plane,17/06/2020,£378.75
+5984,C263,Peter,Low,Plane,17/06/2020,£433.47
+5984,C263,Peter,Low,Plane,17/06/2020,£84.93
+46919,C373,Peter,Low,Plane,18/06/2020,"£4,396.00"
+9954,C741,Peter,Not Specified,Plane,19/06/2020,£194.22
+5446,C318,Peter,Low,Plane,20/06/2020,£428.88
+6144,C622,Peter,Critical,Plane,21/06/2020,£64.28
+3397,C022,Peter,Medium,Plane,22/06/2020,£28.83
+39078,C509,Peter,Low,Plane,23/06/2020,"£2,014.80"
+39078,C509,Peter,Low,Plane,23/06/2020,£166.80
+19073,C164,Peter,Not Specified,Plane,24/06/2020,£163.43
+52006,C130,Peter,Medium,Plane,24/06/2020,£351.54
+52006,C130,Peter,Medium,Plane,24/06/2020,£367.85
+47938,C468,Peter,Low,Plane,24/06/2020,£324.72
+12228,C099,Peter,Not Specified,Lorry,25/06/2020,£125.74
+20322,C693,Peter,Critical,Plane,28/06/2020,£154.80
+18919,C644,Peter,Low,Plane,28/06/2020,£683.28
+31877,C246,Peter,Medium,Plane,29/06/2020,£261.81
+2211,C791,Peter,High,Plane,29/06/2020,£83.72
+2211,C791,Peter,High,Plane,29/06/2020,£74.72
+36647,C162,Peter,High,Plane,30/06/2020,£53.58
+34374,C288,Peter,Low,Plane,30/06/2020,£335.87
+47494,C487,Peter,High,Plane,01/07/2020,"£1,822.06"
+54019,C001,Peter,Low,Lorry,01/07/2020,"£3,895.23"
+29287,C252,Peter,High,Plane,02/07/2020,£258.30
+29287,C252,Peter,High,Lorry,02/07/2020,"£12,082.55"
+50373,C154,Peter,Critical,Plane,02/07/2020,"£1,366.71"
+57827,C034,Peter,Medium,Lorry,02/07/2020,"£2,302.34"
+22695,C405,Peter,Low,Plane,03/07/2020,£433.79
+47713,C488,Peter,High,Plane,03/07/2020,"£3,943.66"
+30785,C566,Peter,High,Plane,03/07/2020,£44.00
+30785,C566,Peter,High,Plane,03/07/2020,£350.93
+43172,C477,Peter,Low,Plane,03/07/2020,£25.59
+37987,C530,Peter,High,Plane,03/07/2020,£293.20
+41282,C254,Peter,Medium,Plane,04/07/2020,£894.13
+53312,C253,Peter,Medium,Plane,04/07/2020,"£7,937.01"
+56002,C206,Peter,Low,Plane,04/07/2020,£483.64
+56002,C206,Peter,Low,Plane,04/07/2020,"£1,381.25"
+27013,C291,Peter,Low,Plane,05/07/2020,"£6,903.16"
+24132,C416,Peter,Low,Plane,06/07/2020,£26.19
+23844,C528,Peter,Not Specified,Plane,06/07/2020,£887.32
+23844,C528,Peter,Not Specified,Plane,06/07/2020,£31.88
+39744,C048,Peter,Medium,Plane,06/07/2020,£59.76
+40902,C731,Peter,Low,Plane,07/07/2020,£173.95
+53894,C138,Peter,Critical,Plane,07/07/2020,£647.38
+28933,C702,Peter,Critical,Plane,09/07/2020,£5.52
+28933,C702,Peter,Critical,Plane,09/07/2020,£146.70
+26629,C555,Peter,High,Plane,10/07/2020,"£20,519.66"
+26372,C622,Peter,Low,Plane,12/07/2020,£29.59
+33635,C202,Peter,High,Lorry,12/07/2020,£436.66
+19232,C186,Peter,Low,Plane,12/07/2020,£30.39
+20706,C367,Peter,High,Van,12/07/2020,"£5,391.53"
+23877,C574,Peter,Not Specified,Plane,12/07/2020,"£1,902.49"
+23877,C574,Peter,Not Specified,Van,12/07/2020,£350.35
+19457,C024,Peter,High,Plane,12/07/2020,£203.49
+19457,C024,Peter,High,Van,12/07/2020,"£6,185.88"
+34565,C782,Peter,Medium,Plane,13/07/2020,"£5,447.81"
+48034,C648,Peter,Not Specified,Lorry,14/07/2020,"£2,729.89"
+3175,C101,Peter,Low,Plane,14/07/2020,"£3,533.63"
+32199,C266,Peter,High,Plane,15/07/2020,"£3,464.99"
+32199,C266,Peter,High,Plane,15/07/2020,£45.32
+31043,C096,Peter,High,Plane,15/07/2020,£733.75
+31043,C096,Peter,High,Plane,15/07/2020,£257.97
+13313,C706,Peter,Not Specified,Plane,16/07/2020,£977.30
+54560,C066,Peter,Critical,Plane,16/07/2020,£570.17
+54560,C066,Peter,Critical,Van,16/07/2020,"£2,731.99"
+13313,C706,Peter,Not Specified,Plane,16/07/2020,£229.14
+13313,C706,Peter,Not Specified,Plane,16/07/2020,£740.70
+5572,C045,Peter,High,Plane,16/07/2020,£264.51
+4321,C602,Peter,Medium,Van,17/07/2020,"£1,406.21"
+24228,C048,Peter,Low,Plane,17/07/2020,£54.78
+38982,C472,Peter,Not Specified,Plane,17/07/2020,"£1,114.42"
+18147,C116,Peter,Not Specified,Plane,17/07/2020,£78.96
+55847,C567,Peter,Not Specified,Plane,20/07/2020,£133.06
+55846,C123,Peter,Not Specified,Plane,20/07/2020,£208.74
+5441,C107,Peter,Not Specified,Plane,20/07/2020,£215.91
+42310,C407,Peter,Critical,Plane,21/07/2020,"£3,955.01"
+56612,C401,Peter,High,Plane,22/07/2020,"£4,407.62"
+37825,C508,Peter,Low,Plane,22/07/2020,£495.08
+22119,C720,Peter,Low,Plane,24/07/2020,£919.40
+29667,C065,Peter,Not Specified,Plane,24/07/2020,£194.67
+34087,C382,Peter,Low,Plane,24/07/2020,"£3,415.91"
+16768,C032,Peter,High,Plane,25/07/2020,£95.07
+10692,C642,Peter,Low,Plane,26/07/2020,£89.11
+10692,C642,Peter,Low,Plane,26/07/2020,"£9,165.14"
+902,C522,Peter,Not Specified,Plane,26/07/2020,"£1,888.07"
+48453,C787,Peter,Medium,Plane,26/07/2020,£382.08
+33699,C776,Peter,Low,Plane,26/07/2020,£280.23
+53029,C519,Peter,Low,Plane,27/07/2020,£221.13
+24644,C768,Peter,Critical,Lorry,28/07/2020,"£5,657.54"
+24644,C768,Peter,Critical,Van,28/07/2020,"£2,414.41"
+8551,C522,Peter,Critical,Plane,29/07/2020,£167.63
+43399,C123,Peter,High,Plane,30/07/2020,£55.86
+43399,C123,Peter,High,Lorry,30/07/2020,£393.75
+43399,C123,Peter,High,Plane,30/07/2020,£120.32
+29187,C638,Peter,Low,Plane,31/07/2020,£120.86
+18179,C475,Peter,Not Specified,Plane,01/08/2020,£70.96
+39589,C584,Peter,Critical,Plane,02/08/2020,£544.74
+56516,C710,Peter,Medium,Plane,03/08/2020,£21.97
+16419,C405,Peter,Not Specified,Plane,04/08/2020,£228.66
+12389,C528,Peter,Medium,Plane,04/08/2020,"£2,560.59"
+12389,C528,Peter,Medium,Plane,04/08/2020,£167.07
+20007,C576,Peter,Not Specified,Plane,05/08/2020,£75.73
+23333,C526,Peter,Medium,Plane,05/08/2020,"£1,024.16"
+33090,C218,Peter,Medium,Plane,05/08/2020,£981.76
+29252,C053,Peter,Low,Plane,06/08/2020,£57.74
+39367,C225,Peter,Critical,Plane,06/08/2020,£172.84
+25638,C342,Peter,High,Plane,06/08/2020,£112.27
+53410,C161,Peter,Critical,Plane,07/08/2020,£599.51
+38886,C785,Peter,High,Van,07/08/2020,£163.75
+48388,C495,Peter,High,Plane,09/08/2020,£15.84
+3136,C599,Peter,Not Specified,Plane,09/08/2020,£223.06
+17927,C352,Peter,Medium,Plane,09/08/2020,£818.31
+39521,C377,Peter,Low,Plane,09/08/2020,£104.08
+21636,C294,Peter,Low,Plane,10/08/2020,"£1,920.46"
+21636,C294,Peter,Low,Plane,10/08/2020,£33.37
+48327,C366,Peter,Not Specified,Plane,10/08/2020,£81.21
+54949,C698,Peter,Low,Plane,10/08/2020,£190.77
+54949,C698,Peter,Low,Lorry,10/08/2020,£133.64
+10464,C107,Peter,Critical,Plane,10/08/2020,£113.39
+20389,C475,Peter,High,Lorry,11/08/2020,"£7,362.25"
+20709,C298,Peter,High,Plane,11/08/2020,£14.87
+20709,C298,Peter,High,Plane,11/08/2020,£23.90
+56163,C169,Peter,Not Specified,Plane,11/08/2020,£110.41
+5894,C041,Peter,High,Plane,12/08/2020,£366.03
+45573,C708,Peter,High,Lorry,12/08/2020,£574.66
+55330,C100,Peter,Medium,Plane,12/08/2020,£616.42
+29956,C714,Peter,Critical,Plane,14/08/2020,£79.50
+37760,C070,Peter,High,Plane,14/08/2020,£148.44
+6406,C542,Peter,Critical,Plane,14/08/2020,£84.97
+34177,C754,Peter,High,Plane,15/08/2020,£171.05
+50310,C682,Peter,Medium,Van,15/08/2020,"£1,678.80"
+50310,C682,Peter,Medium,Lorry,15/08/2020,"£3,753.48"
+50310,C682,Peter,Medium,Plane,15/08/2020,£447.07
+30467,C388,Peter,Critical,Plane,15/08/2020,"£1,999.66"
+26949,C002,Peter,Critical,Plane,15/08/2020,£427.74
+38598,C148,Peter,Low,Plane,15/08/2020,£299.09
+9893,C253,Peter,Medium,Lorry,16/08/2020,£157.76
+37830,C737,Peter,Not Specified,Van,16/08/2020,£962.93
+53254,C578,Peter,Medium,Plane,18/08/2020,"£5,983.66"
+2790,C492,Peter,High,Plane,18/08/2020,£474.47
+1762,C470,Peter,Not Specified,Plane,19/08/2020,£857.11
+19175,C287,Peter,Low,Plane,19/08/2020,"£1,241.27"
+33888,C329,Peter,Not Specified,Lorry,20/08/2020,"£10,047.14"
+2433,C124,Peter,Not Specified,Lorry,21/08/2020,"£26,514.97"
+9187,C196,Peter,High,Plane,21/08/2020,"£1,135.61"
+41825,C733,Peter,Critical,Lorry,22/08/2020,"£7,318.17"
+25031,C668,Peter,High,Plane,23/08/2020,"£4,522.39"
+10886,C619,Peter,Critical,Plane,23/08/2020,£60.13
+43206,C389,Peter,Medium,Van,23/08/2020,£566.56
+6112,C057,Peter,Medium,Lorry,23/08/2020,"£1,431.29"
+31111,C552,Peter,Not Specified,Plane,24/08/2020,£200.09
+28897,C250,Peter,Medium,Plane,24/08/2020,£139.26
+53441,C174,Peter,Medium,Plane,24/08/2020,£332.92
+49799,C436,Peter,High,Plane,24/08/2020,"£2,351.88"
+19429,C216,Peter,Not Specified,Lorry,24/08/2020,£236.53
+17670,C691,Peter,Medium,Plane,25/08/2020,£33.98
+13927,C193,Peter,Low,Van,26/08/2020,£161.74
+21985,C485,Peter,Critical,Lorry,26/08/2020,£868.57
+32611,C568,Peter,Medium,Plane,27/08/2020,£31.95
+32611,C568,Peter,Medium,Van,27/08/2020,£952.21
+10658,C400,Peter,Low,Plane,27/08/2020,£252.96
+37281,C660,Peter,Medium,Plane,28/08/2020,£498.51
+21479,C593,Peter,Medium,Van,28/08/2020,£263.02
+47877,C737,Peter,Medium,Plane,28/08/2020,£264.81
+47877,C737,Peter,Medium,Plane,28/08/2020,"£9,438.40"
+18402,C218,Peter,Low,Plane,29/08/2020,£38.97
+23652,C679,Peter,Not Specified,Plane,30/08/2020,£280.67
+53123,C529,Peter,Not Specified,Plane,31/08/2020,£258.03
+14756,C715,Peter,Low,Plane,31/08/2020,£36.15
+1985,C428,Peter,Not Specified,Plane,01/09/2020,£5.26
+1985,C428,Peter,Not Specified,Lorry,01/09/2020,"£16,792.31"
+51619,C713,Peter,Not Specified,Plane,02/09/2020,£901.99
+51619,C713,Peter,Not Specified,Plane,02/09/2020,£7.24
+51619,C713,Peter,Not Specified,Lorry,02/09/2020,"£10,373.26"
+54151,C030,Peter,Critical,Plane,02/09/2020,£59.37
+26567,C733,Peter,Critical,Plane,04/09/2020,£260.35
+25824,C155,Peter,Medium,Plane,04/09/2020,£19.55
+25824,C155,Peter,Medium,Plane,04/09/2020,"£13,343.32"
+36867,C709,Peter,High,Plane,05/09/2020,£41.93
+34311,C547,Peter,High,Plane,05/09/2020,£121.52
+39845,C699,Peter,Critical,Plane,06/09/2020,£417.58
+48775,C180,Peter,Low,Plane,06/09/2020,£100.25
+5317,C160,Peter,Low,Van,08/09/2020,£184.66
+5317,C160,Peter,Low,Plane,08/09/2020,"£4,840.77"
+10629,C332,Peter,Critical,Plane,11/09/2020,£306.84
+12099,C168,Peter,Critical,Plane,11/09/2020,£301.75
+1313,C669,Peter,Critical,Plane,12/09/2020,£776.56
+49891,C203,Peter,Not Specified,Plane,12/09/2020,£239.20
+49891,C203,Peter,Not Specified,Plane,12/09/2020,£85.83
+40928,C594,Peter,Low,Plane,12/09/2020,£340.52
+46721,C572,Peter,Medium,Plane,13/09/2020,£215.46
+4772,C568,Peter,Critical,Plane,13/09/2020,"£1,773.81"
+10528,C527,Peter,Medium,Van,13/09/2020,£815.26
+7297,C220,Peter,High,Lorry,14/09/2020,"£1,443.53"
+7297,C220,Peter,High,Plane,14/09/2020,£291.02
+7297,C220,Peter,High,Plane,14/09/2020,£856.98
+35558,C131,Peter,Critical,Plane,15/09/2020,£25.10
+34880,C612,Peter,High,Plane,16/09/2020,£273.72
+27330,C497,Peter,Low,Plane,16/09/2020,£421.80
+10371,C524,Peter,High,Van,16/09/2020,£144.72
+57734,C191,Peter,High,Plane,16/09/2020,£104.73
+57734,C191,Peter,High,Plane,16/09/2020,£412.61
+29410,C464,Peter,Critical,Plane,17/09/2020,"£7,055.64"
+37254,C430,Peter,High,Plane,18/09/2020,£725.43
+48385,C615,Peter,Medium,Plane,18/09/2020,£78.88
+54436,C757,Peter,High,Van,19/09/2020,£644.31
+59238,C599,Peter,High,Van,19/09/2020,£437.15
+8320,C424,Peter,Not Specified,Van,19/09/2020,£134.01
+21831,C604,Peter,Not Specified,Plane,19/09/2020,£28.39
+4645,C174,Peter,Critical,Plane,19/09/2020,£848.15
+13378,C596,Peter,Low,Plane,21/09/2020,£87.25
+41440,C019,Peter,High,Plane,22/09/2020,£89.36
+53153,C599,Peter,Critical,Plane,23/09/2020,£529.05
+53190,C535,Peter,Medium,Plane,24/09/2020,£268.18
+42022,C276,Peter,Medium,Plane,24/09/2020,£40.84
+4583,C520,Peter,Medium,Lorry,24/09/2020,"£2,904.50"
+28135,C370,Peter,Critical,Plane,25/09/2020,£493.24
+16133,C272,Peter,Critical,Lorry,25/09/2020,"£3,022.59"
+23136,C067,Peter,Not Specified,Plane,25/09/2020,"£8,851.87"
+23136,C067,Peter,Not Specified,Plane,25/09/2020,£205.57
+49441,C502,Peter,Medium,Van,27/09/2020,"£1,882.95"
+12007,C786,Peter,Not Specified,Plane,27/09/2020,£148.78
+900,C420,Peter,Not Specified,Plane,30/09/2020,"£1,105.23"
+4708,C540,Peter,Critical,Plane,30/09/2020,£172.89
+41728,C018,Peter,High,Lorry,30/09/2020,"£2,391.00"
+49056,C139,Peter,High,Plane,01/10/2020,£265.95
+15654,C247,Peter,Not Specified,Lorry,02/10/2020,"£7,882.67"
+50051,C355,Peter,Medium,Van,04/10/2020,£277.03
+49313,C310,Peter,Medium,Van,04/10/2020,£287.03
+9923,C143,Peter,High,Plane,05/10/2020,£55.60
+20518,C596,Peter,Critical,Plane,05/10/2020,"£9,159.11"
+20518,C596,Peter,Critical,Lorry,05/10/2020,"£2,061.54"
+57511,C247,Peter,Critical,Plane,06/10/2020,£615.89
+47520,C475,Peter,Not Specified,Plane,07/10/2020,£251.60
+26016,C446,Peter,High,Plane,07/10/2020,£141.07
+36739,C586,Peter,Not Specified,Plane,08/10/2020,£306.84
+18308,C041,Peter,Not Specified,Plane,09/10/2020,£419.46
+18308,C041,Peter,Not Specified,Plane,09/10/2020,"£6,173.51"
+23008,C270,Peter,Critical,Van,09/10/2020,£298.86
+13920,C025,Peter,Critical,Plane,09/10/2020,£193.34
+46756,C164,Peter,Medium,Plane,11/10/2020,£21.62
+50786,C168,Peter,Low,Lorry,12/10/2020,£451.16
+22208,C689,Peter,High,Plane,13/10/2020,"£1,134.43"
+53766,C454,Peter,Not Specified,Lorry,13/10/2020,"£2,986.75"
+57248,C190,Peter,Critical,Plane,15/10/2020,£162.55
+13761,C429,Peter,Low,Plane,17/10/2020,"£2,294.66"
+43044,C457,Peter,Medium,Plane,17/10/2020,"£19,535.10"
+26342,C447,Peter,Low,Plane,18/10/2020,£234.96
+26342,C447,Peter,Low,Plane,18/10/2020,£19.24
+39649,C420,Peter,High,Plane,19/10/2020,£53.28
+19522,C013,Peter,Medium,Plane,20/10/2020,£157.17
+19522,C013,Peter,Medium,Plane,20/10/2020,£61.21
+36835,C792,Peter,Critical,Plane,20/10/2020,"£6,283.55"
+36835,C792,Peter,Critical,Plane,20/10/2020,"£1,116.39"
+6246,C612,Peter,Not Specified,Plane,21/10/2020,£48.02
+26565,C140,Peter,Medium,Plane,21/10/2020,"£20,129.50"
+48929,C679,Peter,High,Plane,22/10/2020,£35.09
+34631,C105,Peter,Not Specified,Plane,23/10/2020,"£12,368.82"
+34918,C030,Peter,Medium,Lorry,23/10/2020,"£2,041.45"
+38887,C777,Peter,Critical,Plane,24/10/2020,£354.03
+38887,C777,Peter,Critical,Plane,24/10/2020,£259.47
+17124,C792,Peter,Critical,Van,25/10/2020,£116.34
+50656,C589,Peter,Critical,Plane,25/10/2020,£103.95
+32737,C787,Peter,High,Plane,28/10/2020,£363.47
+7623,C700,Peter,Critical,Plane,28/10/2020,"£1,738.65"
+7623,C700,Peter,Critical,Plane,28/10/2020,"£3,019.68"
+19105,C519,Peter,High,Plane,28/10/2020,"£1,364.59"
+19105,C519,Peter,High,Plane,28/10/2020,£159.55
+22628,C485,Peter,Medium,Lorry,29/10/2020,"£2,820.93"
+3395,C138,Peter,Not Specified,Van,29/10/2020,£156.77
+3395,C138,Peter,Not Specified,Plane,29/10/2020,£593.69
+44134,C297,Peter,High,Plane,30/10/2020,£587.53
+24003,C191,Peter,Critical,Plane,31/10/2020,£81.07
+24003,C191,Peter,Critical,Van,31/10/2020,£136.76
+38566,C733,Peter,Critical,Lorry,02/11/2020,"£9,460.60"
+38564,C789,Peter,Critical,Van,02/11/2020,£78.06
+21314,C591,Peter,Low,Plane,02/11/2020,£49.54
+21314,C591,Peter,Low,Plane,02/11/2020,£106.33
+42338,C005,Peter,Not Specified,Plane,02/11/2020,£55.64
+28389,C497,Peter,High,Plane,03/11/2020,£632.83
+36896,C793,Peter,Critical,Plane,03/11/2020,"£3,372.16"
+32675,C396,Peter,High,Lorry,03/11/2020,"£6,359.99"
+15105,C307,Peter,Low,Plane,03/11/2020,£445.40
+9057,C528,Peter,Critical,Plane,04/11/2020,£150.28
+50336,C401,Peter,Not Specified,Plane,04/11/2020,£51.93
+37731,C618,Peter,Critical,Plane,04/11/2020,£736.08
+28259,C743,Peter,High,Plane,04/11/2020,£226.86
+40261,C279,Peter,Critical,Van,04/11/2020,£316.38
+18247,C642,Peter,Not Specified,Plane,05/11/2020,£151.80
+26944,C278,Peter,Critical,Plane,07/11/2020,£435.00
+37793,C240,Peter,Not Specified,Plane,08/11/2020,£204.61
+16679,C666,Peter,Low,Lorry,08/11/2020,"£6,438.63"
+53508,C405,Peter,High,Plane,10/11/2020,£56.55
+10562,C794,Peter,Not Specified,Plane,11/11/2020,£931.10
+51392,C349,Peter,Medium,Plane,12/11/2020,£239.42
+20263,C120,Peter,Medium,Plane,14/11/2020,£454.33
+47943,C236,Peter,Medium,Plane,14/11/2020,£56.56
+47943,C236,Peter,Medium,Plane,14/11/2020,£749.82
+13091,C063,Peter,Medium,Plane,15/11/2020,£785.33
+11332,C475,Peter,Low,Plane,16/11/2020,£200.82
+32710,C392,Peter,High,Plane,16/11/2020,£513.52
+4931,C307,Peter,Critical,Plane,16/11/2020,£161.77
+55554,C029,Peter,Critical,Plane,16/11/2020,£109.27
+55554,C029,Peter,Critical,Plane,16/11/2020,£89.93
+9126,C733,Peter,Medium,Plane,17/11/2020,"£2,799.70"
+7744,C433,Peter,Low,Plane,17/11/2020,"£4,182.90"
+7744,C433,Peter,Low,Plane,17/11/2020,£6.95
+21445,C174,Peter,Low,Plane,17/11/2020,£379.51
+22407,C727,Peter,Not Specified,Van,17/11/2020,£487.58
+56608,C465,Peter,Critical,Plane,18/11/2020,£39.12
+17282,C224,Peter,Low,Plane,18/11/2020,£982.15
+15139,C318,Peter,High,Lorry,19/11/2020,£685.42
+48198,C689,Peter,Critical,Lorry,20/11/2020,"£2,785.48"
+57409,C388,Peter,Not Specified,Plane,20/11/2020,£90.88
+12706,C207,Peter,Critical,Lorry,20/11/2020,"£2,433.74"
+33189,C650,Peter,Low,Plane,20/11/2020,£46.28
+646,C246,Peter,High,Plane,21/11/2020,£165.90
+24614,C340,Peter,Low,Plane,21/11/2020,"£1,530.93"
+3585,C040,Peter,High,Plane,22/11/2020,£53.12
+6211,C579,Peter,Critical,Plane,23/11/2020,£59.65
+40835,C363,Peter,High,Plane,24/11/2020,£11.67
+55875,C098,Peter,Critical,Plane,25/11/2020,£379.50
+17668,C271,Peter,Medium,Plane,25/11/2020,£822.26
+17668,C271,Peter,Medium,Van,25/11/2020,"£2,570.76"
+10884,C166,Peter,Low,Plane,25/11/2020,"£2,751.62"
+52035,C660,Peter,High,Plane,27/11/2020,"£19,690.72"
+5511,C058,Peter,Critical,Van,28/11/2020,£116.31
+36707,C147,Peter,Medium,Plane,29/11/2020,£174.11
+20710,C226,Peter,High,Plane,29/11/2020,£63.11
+37924,C613,Peter,High,Plane,29/11/2020,£343.79
+12258,C440,Peter,Low,Van,30/11/2020,£101.32
+355,C335,Pryia,Low,Plane,13/06/2020,"£1,375.84"
+39430,C251,Pryia,Low,Plane,13/06/2020,£871.47
+58339,C635,Pryia,High,Van,13/06/2020,£22.65
+837,C691,Pryia,Not Specified,Plane,14/06/2020,£63.60
+28001,C231,Pryia,Critical,Plane,14/06/2020,"£4,039.50"
+22242,C578,Pryia,Not Specified,Plane,15/06/2020,£311.04
+48931,C146,Pryia,Low,Plane,17/06/2020,£245.36
+48931,C146,Pryia,Low,Plane,17/06/2020,"£2,108.30"
+57155,C722,Pryia,Critical,Van,17/06/2020,£520.55
+224,C073,Pryia,Not Specified,Plane,17/06/2020,£167.90
+224,C073,Pryia,Not Specified,Plane,17/06/2020,£488.51
+23303,C621,Pryia,Not Specified,Plane,20/06/2020,£229.98
+42403,C573,Pryia,Not Specified,Plane,20/06/2020,£112.36
+47168,C178,Pryia,Not Specified,Lorry,21/06/2020,"£2,822.16"
+47168,C178,Pryia,Not Specified,Plane,21/06/2020,£247.67
+18080,C733,Pryia,High,Lorry,22/06/2020,"£1,140.17"
+9088,C663,Pryia,Critical,Plane,22/06/2020,"£14,792.02"
+9088,C663,Pryia,Critical,Plane,22/06/2020,"£1,861.58"
+3397,C022,Pryia,Medium,Plane,22/06/2020,£773.23
+39078,C509,Pryia,Low,Plane,23/06/2020,£30.50
+18119,C777,Pryia,Low,Plane,24/06/2020,£323.38
+12228,C099,Pryia,Not Specified,Plane,25/06/2020,"£5,728.22"
+33250,C320,Pryia,Not Specified,Plane,25/06/2020,"£6,834.43"
+36705,C671,Pryia,Not Specified,Lorry,25/06/2020,"£1,132.82"
+20322,C693,Pryia,Critical,Lorry,28/06/2020,"£4,227.02"
+20322,C693,Pryia,Critical,Plane,28/06/2020,£78.03
+55429,C563,Pryia,High,Plane,29/06/2020,£253.56
+2211,C791,Pryia,High,Plane,29/06/2020,"£1,546.18"
+25063,C261,Pryia,Not Specified,Plane,29/06/2020,£829.21
+20135,C729,Pryia,Critical,Plane,30/06/2020,£111.39
+20135,C729,Pryia,Critical,Lorry,30/06/2020,"£9,001.83"
+36647,C162,Pryia,High,Plane,30/06/2020,£157.30
+47494,C487,Pryia,High,Plane,01/07/2020,£43.48
+8997,C769,Pryia,Low,Plane,01/07/2020,"£17,279.62"
+46244,C061,Pryia,Medium,Lorry,02/07/2020,£554.92
+46244,C061,Pryia,Medium,Plane,02/07/2020,£149.45
+7782,C520,Pryia,Critical,Van,02/07/2020,"£1,134.04"
+57827,C034,Pryia,Medium,Plane,02/07/2020,£141.53
+37987,C530,Pryia,High,Lorry,03/07/2020,£658.53
+32706,C506,Pryia,Critical,Lorry,04/07/2020,"£1,939.90"
+53312,C253,Pryia,Medium,Plane,04/07/2020,£94.19
+1287,C551,Pryia,High,Plane,04/07/2020,"£3,859.93"
+36067,C208,Pryia,High,Van,04/07/2020,"£5,867.90"
+3649,C100,Pryia,Low,Plane,05/07/2020,£70.33
+27013,C291,Pryia,Low,Plane,05/07/2020,"£2,154.07"
+24132,C416,Pryia,Low,Plane,06/07/2020,"£1,150.32"
+24132,C416,Pryia,Low,Plane,06/07/2020,£45.60
+23844,C528,Pryia,Not Specified,Plane,06/07/2020,"£1,719.20"
+39744,C048,Pryia,Medium,Plane,06/07/2020,£593.91
+39744,C048,Pryia,Medium,Plane,06/07/2020,"£6,139.77"
+48416,C444,Pryia,Not Specified,Plane,06/07/2020,£152.10
+53894,C138,Pryia,Critical,Van,07/07/2020,"£5,712.14"
+12480,C716,Pryia,Medium,Lorry,07/07/2020,"£1,099.84"
+36932,C775,Pryia,Low,Plane,07/07/2020,£650.69
+37447,C578,Pryia,Low,Plane,08/07/2020,£130.96
+37696,C780,Pryia,Not Specified,Plane,09/07/2020,£18.29
+37696,C780,Pryia,Not Specified,Plane,09/07/2020,£160.72
+40547,C183,Pryia,Critical,Van,09/07/2020,"£7,613.58"
+19232,C186,Pryia,Low,Plane,12/07/2020,£257.59
+57412,C128,Pryia,Low,Plane,13/07/2020,£255.36
+41189,C712,Pryia,Low,Plane,14/07/2020,£187.70
+32199,C266,Pryia,High,Plane,15/07/2020,£180.69
+46656,C581,Pryia,High,Plane,16/07/2020,£605.56
+55553,C388,Pryia,Medium,Plane,17/07/2020,£172.67
+11843,C166,Pryia,Medium,Lorry,17/07/2020,"£4,888.39"
+25060,C115,Pryia,Not Specified,Plane,20/07/2020,"£7,397.16"
+25060,C115,Pryia,Not Specified,Lorry,20/07/2020,"£1,893.93"
+37542,C006,Pryia,Medium,Van,20/07/2020,"£2,980.92"
+5441,C107,Pryia,Not Specified,Plane,20/07/2020,£263.42
+43079,C308,Pryia,Medium,Plane,21/07/2020,"£1,180.03"
+50823,C556,Pryia,Low,Plane,21/07/2020,"£1,163.29"
+48961,C393,Pryia,Not Specified,Plane,21/07/2020,£498.83
+41316,C388,Pryia,Not Specified,Plane,21/07/2020,£823.96
+33350,C438,Pryia,Not Specified,Plane,21/07/2020,"£1,700.99"
+16451,C235,Pryia,Not Specified,Plane,22/07/2020,£250.29
+13030,C556,Pryia,Medium,Van,22/07/2020,£113.28
+14112,C597,Pryia,Low,Van,24/07/2020,£49.96
+9092,C371,Pryia,Not Specified,Plane,24/07/2020,£691.13
+10692,C642,Pryia,Low,Plane,26/07/2020,"£1,458.17"
+24933,C696,Pryia,Low,Plane,26/07/2020,£140.54
+57794,C251,Pryia,Low,Plane,26/07/2020,£78.09
+33699,C776,Pryia,Low,Plane,26/07/2020,£187.95
+44867,C518,Pryia,High,Lorry,26/07/2020,"£19,838.81"
+44708,C027,Pryia,Not Specified,Plane,27/07/2020,£25.58
+9606,C202,Pryia,Not Specified,Plane,27/07/2020,£478.90
+9606,C202,Pryia,Not Specified,Van,27/07/2020,£178.24
+29286,C012,Pryia,Critical,Lorry,28/07/2020,"£13,027.96"
+8551,C522,Pryia,Critical,Plane,29/07/2020,£218.12
+32420,C162,Pryia,Medium,Plane,29/07/2020,£163.40
+32420,C162,Pryia,Medium,Lorry,29/07/2020,"£4,964.92"
+28130,C320,Pryia,Low,Van,30/07/2020,"£1,366.89"
+18753,C271,Pryia,Medium,Lorry,31/07/2020,"£5,259.22"
+33959,C080,Pryia,Critical,Lorry,31/07/2020,£339.78
+29187,C638,Pryia,Low,Plane,31/07/2020,£15.72
+29187,C638,Pryia,Low,Plane,31/07/2020,£64.80
+29187,C638,Pryia,Low,Plane,31/07/2020,£447.33
+26881,C444,Pryia,Low,Lorry,01/08/2020,"£10,477.99"
+55298,C120,Pryia,Critical,Lorry,02/08/2020,£297.97
+45539,C312,Pryia,Not Specified,Van,02/08/2020,£242.26
+38978,C573,Pryia,Low,Lorry,03/08/2020,"£4,343.52"
+31426,C316,Pryia,Low,Plane,05/08/2020,"£4,586.04"
+34435,C415,Pryia,Low,Plane,05/08/2020,£435.76
+23333,C526,Pryia,Medium,Plane,05/08/2020,£609.10
+39367,C225,Pryia,Critical,Plane,06/08/2020,£134.40
+25638,C342,Pryia,High,Plane,06/08/2020,£148.56
+49666,C359,Pryia,Low,Van,06/08/2020,£235.15
+42309,C523,Pryia,Low,Plane,06/08/2020,£831.28
+42309,C523,Pryia,Low,Plane,06/08/2020,"£7,201.41"
+24231,C226,Pryia,Not Specified,Plane,07/08/2020,"£2,914.12"
+57381,C601,Pryia,High,Plane,07/08/2020,£490.70
+47941,C279,Pryia,High,Plane,08/08/2020,"£1,396.65"
+21636,C294,Pryia,Low,Van,10/08/2020,£358.08
+20389,C475,Pryia,High,Plane,11/08/2020,£249.96
+20389,C475,Pryia,High,Van,11/08/2020,£175.81
+46018,C414,Pryia,Medium,Lorry,11/08/2020,"£2,650.87"
+18723,C397,Pryia,Medium,Plane,12/08/2020,£55.99
+52867,C346,Pryia,High,Lorry,13/08/2020,"£1,811.33"
+18049,C472,Pryia,Medium,Plane,13/08/2020,£55.61
+14115,C380,Pryia,Not Specified,Plane,14/08/2020,"£3,718.21"
+37760,C070,Pryia,High,Plane,14/08/2020,"£3,136.92"
+41636,C504,Pryia,Critical,Plane,14/08/2020,"£4,902.29"
+42343,C085,Pryia,Critical,Lorry,14/08/2020,"£3,134.48"
+42343,C085,Pryia,Critical,Plane,14/08/2020,"£1,232.57"
+11840,C795,Pryia,Critical,Plane,14/08/2020,£177.23
+34177,C754,Pryia,High,Plane,15/08/2020,£33.25
+34177,C754,Pryia,High,Plane,15/08/2020,£944.55
+15751,C521,Pryia,Critical,Plane,15/08/2020,£180.57
+15751,C521,Pryia,Critical,Plane,15/08/2020,£436.38
+38598,C148,Pryia,Low,Plane,15/08/2020,£427.41
+29346,C353,Pryia,Low,Plane,16/08/2020,£20.84
+23392,C364,Pryia,Medium,Plane,16/08/2020,"£5,024.88"
+46469,C006,Pryia,Critical,Lorry,16/08/2020,"£1,146.33"
+46469,C006,Pryia,Critical,Plane,16/08/2020,£85.16
+55840,C355,Pryia,Medium,Plane,17/08/2020,£52.59
+40647,C557,Pryia,High,Plane,17/08/2020,"£1,868.73"
+13536,C020,Pryia,Medium,Plane,18/08/2020,£113.18
+2790,C492,Pryia,High,Plane,18/08/2020,£37.70
+2790,C492,Pryia,High,Lorry,18/08/2020,"£22,098.60"
+1762,C470,Pryia,Not Specified,Plane,19/08/2020,£65.78
+33888,C329,Pryia,Not Specified,Plane,20/08/2020,£342.24
+43779,C466,Pryia,High,Plane,21/08/2020,"£3,819.09"
+43301,C512,Pryia,Critical,Lorry,21/08/2020,"£3,329.37"
+9187,C196,Pryia,High,Plane,21/08/2020,£167.81
+57542,C393,Pryia,High,Plane,22/08/2020,"£1,225.00"
+44196,C187,Pryia,Not Specified,Plane,22/08/2020,£51.28
+24162,C688,Pryia,Not Specified,Plane,22/08/2020,£8.91
+25031,C668,Pryia,High,Plane,23/08/2020,£92.63
+10886,C619,Pryia,Critical,Lorry,23/08/2020,"£5,583.13"
+28897,C250,Pryia,Medium,Plane,24/08/2020,£793.96
+29350,C263,Pryia,High,Plane,25/08/2020,£136.26
+29350,C263,Pryia,High,Van,25/08/2020,"£1,597.24"
+15108,C222,Pryia,High,Plane,27/08/2020,"£2,008.51"
+32611,C568,Pryia,Medium,Plane,27/08/2020,£70.97
+10658,C400,Pryia,Low,Plane,27/08/2020,£172.69
+10658,C400,Pryia,Low,Plane,27/08/2020,"£1,484.97"
+47877,C737,Pryia,Medium,Lorry,28/08/2020,"£3,865.31"
+18402,C218,Pryia,Low,Lorry,29/08/2020,"£1,382.15"
+20390,C673,Pryia,Not Specified,Van,31/08/2020,"£1,163.09"
+20390,C673,Pryia,Not Specified,Plane,31/08/2020,£53.38
+20128,C163,Pryia,Not Specified,Plane,31/08/2020,£462.84
+54464,C401,Pryia,High,Plane,01/09/2020,£80.96
+51619,C713,Pryia,Not Specified,Plane,02/09/2020,£98.61
+26567,C733,Pryia,Critical,Plane,04/09/2020,"£7,188.02"
+42342,C090,Pryia,Not Specified,Lorry,04/09/2020,"£11,471.13"
+25824,C155,Pryia,Medium,Plane,04/09/2020,£552.90
+11392,C680,Pryia,Low,Plane,05/09/2020,£122.30
+51714,C458,Pryia,Not Specified,Plane,05/09/2020,£185.02
+38913,C211,Pryia,Not Specified,Plane,06/09/2020,£215.51
+10052,C191,Pryia,Not Specified,Plane,07/09/2020,£90.47
+5317,C160,Pryia,Low,Lorry,08/09/2020,"£1,311.11"
+3746,C012,Pryia,Not Specified,Plane,10/09/2020,£222.70
+13280,C310,Pryia,High,Plane,11/09/2020,£431.64
+13280,C310,Pryia,High,Plane,11/09/2020,£352.36
+12099,C168,Pryia,Critical,Van,11/09/2020,£2.45
+44836,C737,Pryia,Medium,Plane,11/09/2020,£123.07
+38145,C030,Pryia,Not Specified,Plane,12/09/2020,£364.16
+41221,C276,Pryia,Critical,Plane,12/09/2020,£304.48
+9888,C006,Pryia,Low,Plane,12/09/2020,"£9,294.27"
+29860,C706,Pryia,Critical,Plane,13/09/2020,"£7,881.24"
+46721,C572,Pryia,Medium,Plane,13/09/2020,£121.70
+25831,C770,Pryia,Medium,Plane,14/09/2020,£273.18
+46437,C541,Pryia,Medium,Plane,15/09/2020,"£1,437.66"
+54243,C030,Pryia,Low,Van,16/09/2020,£860.05
+21121,C272,Pryia,Not Specified,Plane,16/09/2020,"£19,399.50"
+43974,C322,Pryia,Not Specified,Plane,16/09/2020,£59.29
+29410,C464,Pryia,Critical,Plane,17/09/2020,"£4,064.59"
+38915,C079,Pryia,Medium,Plane,17/09/2020,£240.00
+31619,C607,Pryia,Low,Plane,17/09/2020,£356.22
+19204,C464,Pryia,Medium,Plane,18/09/2020,£212.63
+19204,C464,Pryia,Medium,Plane,18/09/2020,"£1,520.42"
+8320,C424,Pryia,Not Specified,Plane,19/09/2020,"£1,054.04"
+4645,C174,Pryia,Critical,Plane,19/09/2020,"£3,299.89"
+548,C725,Pryia,Critical,Plane,20/09/2020,£121.23
+548,C725,Pryia,Critical,Plane,20/09/2020,"£3,144.71"
+41440,C019,Pryia,High,Lorry,22/09/2020,"£5,571.15"
+49088,C450,Pryia,Critical,Plane,23/09/2020,£126.02
+29826,C138,Pryia,Critical,Plane,24/09/2020,£152.11
+18754,C651,Pryia,Not Specified,Lorry,25/09/2020,"£1,094.00"
+18754,C651,Pryia,Not Specified,Plane,25/09/2020,"£1,942.75"
+3522,C347,Pryia,Low,Plane,25/09/2020,"£1,831.23"
+41542,C487,Pryia,High,Lorry,26/09/2020,"£5,675.50"
+19075,C402,Pryia,Critical,Plane,26/09/2020,"£1,816.93"
+31175,C792,Pryia,Critical,Van,26/09/2020,£519.48
+25953,C472,Pryia,Critical,Plane,27/09/2020,"£2,298.06"
+16771,C192,Pryia,High,Plane,28/09/2020,"£1,645.58"
+231,C688,Pryia,High,Plane,28/09/2020,£682.91
+44775,C226,Pryia,Medium,Van,29/09/2020,£190.95
+26913,C031,Pryia,High,Plane,29/09/2020,£718.63
+26689,C737,Pryia,High,Plane,29/09/2020,£196.48
+41728,C018,Pryia,High,Plane,30/09/2020,"£23,106.46"
+37473,C763,Pryia,Low,Plane,01/10/2020,£38.95
+49056,C139,Pryia,High,Plane,01/10/2020,£283.18
+16321,C660,Pryia,Not Specified,Plane,01/10/2020,"£6,928.71"
+33701,C128,Pryia,Medium,Van,01/10/2020,"£2,166.42"
+37473,C763,Pryia,Low,Plane,01/10/2020,£82.40
+51072,C043,Pryia,Critical,Plane,02/10/2020,"£6,946.65"
+50051,C355,Pryia,Medium,Plane,04/10/2020,£92.13
+44583,C218,Pryia,Low,Plane,04/10/2020,£11.99
+19111,C074,Pryia,Low,Plane,04/10/2020,£191.92
+44583,C218,Pryia,Low,Plane,04/10/2020,£292.24
+3841,C395,Pryia,Not Specified,Plane,04/10/2020,"£24,911.40"
+30214,C436,Pryia,Low,Van,04/10/2020,£357.05
+15075,C562,Pryia,Medium,Plane,04/10/2020,"£1,503.87"
+15075,C562,Pryia,Medium,Plane,04/10/2020,£49.70
+9923,C143,Pryia,High,Lorry,05/10/2020,"£5,037.91"
+46881,C571,Pryia,Critical,Van,06/10/2020,£149.34
+57511,C247,Pryia,Critical,Plane,06/10/2020,£91.56
+47520,C475,Pryia,Not Specified,Lorry,07/10/2020,"£3,602.87"
+26016,C446,Pryia,High,Van,07/10/2020,"£1,861.68"
+8162,C505,Pryia,Medium,Plane,07/10/2020,"£5,324.13"
+46533,C394,Pryia,High,Plane,07/10/2020,£159.84
+28675,C623,Pryia,Critical,Plane,08/10/2020,£890.87
+36739,C586,Pryia,Not Specified,Plane,08/10/2020,£59.22
+35136,C610,Pryia,Critical,Plane,08/10/2020,£62.89
+50147,C224,Pryia,Medium,Plane,08/10/2020,"£1,432.01"
+50147,C224,Pryia,Medium,Plane,08/10/2020,£149.24
+21541,C619,Pryia,Not Specified,Lorry,08/10/2020,"£2,930.05"
+2791,C275,Pryia,High,Lorry,09/10/2020,"£5,394.50"
+2791,C275,Pryia,High,Plane,09/10/2020,£501.88
+14785,C574,Pryia,High,Plane,09/10/2020,£90.34
+54819,C617,Pryia,Low,Plane,10/10/2020,"£2,944.47"
+26146,C389,Pryia,Low,Plane,11/10/2020,"£1,319.64"
+48420,C085,Pryia,Low,Van,11/10/2020,£804.97
+8835,C348,Pryia,Critical,Plane,13/10/2020,£139.08
+22208,C689,Pryia,High,Plane,13/10/2020,"£5,795.54"
+40160,C408,Pryia,Critical,Plane,15/10/2020,"£1,323.56"
+47108,C415,Pryia,Not Specified,Plane,15/10/2020,£118.31
+17028,C366,Pryia,High,Plane,15/10/2020,£483.93
+7906,C087,Pryia,Medium,Plane,17/10/2020,£932.42
+43044,C457,Pryia,Medium,Plane,17/10/2020,£91.67
+2086,C111,Pryia,Critical,Van,18/10/2020,"£1,330.08"
+2086,C111,Pryia,Critical,Plane,18/10/2020,"£2,407.32"
+2086,C111,Pryia,Critical,Plane,18/10/2020,"£1,142.62"
+28614,C738,Pryia,Critical,Plane,19/10/2020,"£7,599.53"
+52615,C474,Pryia,Low,Plane,19/10/2020,£68.69
+39649,C420,Pryia,High,Van,19/10/2020,"£1,544.30"
+16196,C486,Pryia,High,Plane,20/10/2020,"£4,618.79"
+50626,C217,Pryia,Medium,Plane,20/10/2020,"£24,191.60"
+12581,C718,Pryia,High,Van,20/10/2020,"£2,045.69"
+11335,C521,Pryia,High,Plane,21/10/2020,£13.74
+11335,C521,Pryia,High,Lorry,21/10/2020,£873.53
+58693,C118,Pryia,Low,Plane,21/10/2020,£799.50
+48929,C679,Pryia,High,Plane,22/10/2020,"£2,090.84"
+34918,C030,Pryia,Medium,Plane,23/10/2020,£180.18
+4835,C277,Pryia,Critical,Plane,24/10/2020,£7.26
+50656,C589,Pryia,Critical,Plane,25/10/2020,£480.81
+48896,C591,Pryia,Critical,Plane,28/10/2020,£799.40
+52291,C540,Pryia,Critical,Plane,29/10/2020,£275.56
+52291,C540,Pryia,Critical,Plane,29/10/2020,£103.90
+56064,C792,Pryia,Medium,Plane,29/10/2020,"£1,146.34"
+3395,C138,Pryia,Not Specified,Plane,29/10/2020,£7.13
+43554,C620,Pryia,Critical,Plane,30/10/2020,£30.46
+26627,C453,Pryia,Medium,Plane,30/10/2020,£36.00
+28419,C620,Pryia,Low,Van,31/10/2020,£117.68
+24003,C191,Pryia,Critical,Plane,31/10/2020,£10.66
+8103,C093,Pryia,Low,Plane,02/11/2020,£434.05
+18178,C557,Pryia,Low,Plane,02/11/2020,£177.23
+38564,C789,Pryia,Critical,Plane,02/11/2020,£883.26
+42338,C005,Pryia,Not Specified,Plane,02/11/2020,"£2,090.56"
+44231,C021,Pryia,Not Specified,Lorry,03/11/2020,"£1,699.95"
+44231,C021,Pryia,Not Specified,Plane,03/11/2020,£765.41
+44231,C021,Pryia,Not Specified,Plane,03/11/2020,"£2,616.73"
+28389,C497,Pryia,High,Lorry,03/11/2020,"£1,928.13"
+37731,C618,Pryia,Critical,Plane,04/11/2020,£85.31
+34883,C608,Pryia,Critical,Plane,04/11/2020,"£1,059.91"
+5856,C160,Pryia,High,Lorry,05/11/2020,"£9,701.16"
+31873,C694,Pryia,Low,Plane,08/11/2020,£134.84
+31873,C694,Pryia,Low,Plane,08/11/2020,"£9,681.53"
+31873,C694,Pryia,Low,Plane,08/11/2020,£221.76
+38371,C226,Pryia,Not Specified,Van,08/11/2020,"£1,894.68"
+34788,C014,Pryia,High,Plane,09/11/2020,£23.44
+53508,C405,Pryia,High,Plane,10/11/2020,£328.77
+37025,C771,Pryia,High,Plane,10/11/2020,£627.36
+21922,C356,Pryia,High,Plane,11/11/2020,£146.26
+42144,C048,Pryia,Medium,Van,12/11/2020,£640.04
+27463,C766,Pryia,Medium,Plane,13/11/2020,£786.78
+59396,C108,Pryia,Critical,Plane,14/11/2020,"£5,814.06"
+13091,C063,Pryia,Medium,Plane,15/11/2020,£71.54
+11332,C475,Pryia,Low,Van,16/11/2020,"£1,396.35"
+4931,C307,Pryia,Critical,Plane,16/11/2020,"£4,844.71"
+55554,C029,Pryia,Critical,Plane,16/11/2020,£138.30
+55490,C078,Pryia,Medium,Lorry,16/11/2020,£204.16
+21445,C174,Pryia,Low,Van,17/11/2020,£55.70
+22407,C727,Pryia,Not Specified,Plane,17/11/2020,£120.34
+14336,C719,Pryia,High,Van,18/11/2020,£151.96
+15139,C318,Pryia,High,Lorry,19/11/2020,"£4,758.49"
+48198,C689,Pryia,Critical,Plane,20/11/2020,"£2,682.80"
+25926,C539,Pryia,High,Plane,20/11/2020,£311.80
+23971,C186,Pryia,Critical,Plane,21/11/2020,£59.85
+10309,C778,Pryia,Low,Plane,21/11/2020,£468.06
+3585,C040,Pryia,High,Plane,22/11/2020,£252.61
+11584,C690,Pryia,Medium,Plane,22/11/2020,"£1,710.24"
+48295,C120,Pryia,Medium,Plane,23/11/2020,"£9,306.96"
+46052,C091,Pryia,Medium,Van,23/11/2020,£693.42
+3492,C660,Pryia,Low,Plane,23/11/2020,"£2,260.61"
+3492,C660,Pryia,Low,Lorry,23/11/2020,"£5,776.22"
+6211,C579,Pryia,Critical,Plane,23/11/2020,£59.88
+40835,C363,Pryia,High,Plane,24/11/2020,£515.72
+10183,C199,Pryia,Critical,Lorry,24/11/2020,"£1,172.22"
+19943,C083,Pryia,Critical,Lorry,24/11/2020,"£1,852.41"
+11909,C712,Pryia,Not Specified,Plane,24/11/2020,£223.96
+55875,C098,Pryia,Critical,Plane,25/11/2020,£168.70
+32195,C537,Pryia,Medium,Plane,25/11/2020,£77.01
+30726,C325,Pryia,Medium,Plane,25/11/2020,£673.98
+55906,C678,Pryia,Critical,Plane,26/11/2020,£267.95
+55906,C678,Pryia,Critical,Plane,26/11/2020,£112.52
+55906,C678,Pryia,Critical,Plane,26/11/2020,"£2,226.76"
+5511,C058,Pryia,Critical,Plane,28/11/2020,"£2,069.45"
+39717,C364,Pryia,High,Plane,28/11/2020,£819.12
+20710,C226,Pryia,High,Plane,29/11/2020,£166.84
+38947,C151,Pryia,Critical,Plane,29/11/2020,£285.77
+37924,C613,Pryia,High,Plane,29/11/2020,"£7,690.06"
+12258,C440,Pryia,Low,Lorry,30/11/2020,£521.22
+12258,C440,Pryia,Low,Plane,30/11/2020,"£2,417.14"
+57061,C234,Pryia,Low,Plane,30/11/2020,£451.18
+57061,C234,Pryia,Low,Plane,30/11/2020,£35.15
+57061,C234,Pryia,Low,Plane,30/11/2020,£50.14
+36416,C691,Pryia,Low,Plane,30/11/2020,£127.18
